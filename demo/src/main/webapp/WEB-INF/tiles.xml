@@ -26,4 +26,6 @@
   	
   	<definition name="edit" template="/WEB-INF/views/admin/edit.jsp"></definition>
   	
+  	
+  	
 </tiles-definitions>

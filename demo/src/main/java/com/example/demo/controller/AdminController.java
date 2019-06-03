@@ -9,7 +9,7 @@ public class AdminController {
 	
 		
 	@RequestMapping("/admin/category")
-	public String indexdfdfsoesadadr() {
+	public String indexcategory() {
 		return "category";
 	}
 	
